@@ -1,2 +1,2 @@
 # DJango
-web 기초
+Framework basic
